@@ -1,5 +1,5 @@
 # Data Source for Schema
-
+![UI_2](tableau/ecom.png "Sample_1")
 ## Overview
 The data used in this project was generated programmatically using the `Faker` Python module. The `Faker` module provides a robust framework for creating realistic test data based on predefined schemas, ensuring a comprehensive dataset for testing and analysis.
 
